@@ -31,4 +31,4 @@ python filename.py
 ## 🙌 Contributions
 - question one: encryption tool [@Sukhjindersingh06](https://github.com/Sukhjindersingh06)
 - question two: weather station data analysis [@harsimran-s20](https://github.com/harsimran-s20) [@aryanjagotra120](https://github.com/aryanjagotra120)
-- question three: recursive patterns using turtle [@Yuvraj569](https://github.com/[aryanjagotra120](https://github.com/Yuvraj569))
+- question three: recursive patterns using turtle [@Yuvraj569](https://github.com/Yuvraj569)
